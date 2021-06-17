@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "title": "Spiderman 3",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTk3MDljOWQtNGI2My00OTEzLTlhYjQtOTQ4ODM2MzUwY2IwXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+        "director" : "Sam Raimi",
+        "year": "2007 ",
+        "description": "A strange black entity from another world bonds with Peter Parker and causes inner turmoil as he contends with new villains, temptations, and revenge. ",
+        "genre": "Action",
+        "rating": " "
+    },
+    {
+        "id": 2,
+        "title": "Spiderman 3",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTk3MDljOWQtNGI2My00OTEzLTlhYjQtOTQ4ODM2MzUwY2IwXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+        "director" : "Sam Raimi",
+        "year": "2007",
+        "description": " hfhfhhs",
+        "genre": "Adventure ",
+        "rating": " " 
+    },
+    {
+        "id": 3,
+        "title": "Spiderman 3",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTk3MDljOWQtNGI2My00OTEzLTlhYjQtOTQ4ODM2MzUwY2IwXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+        "director" : "Sam Raimi",
+        "year": "2007 ",
+        "description": "hdtdtrere",
+        "genre": "Scifi ",
+        "rating": " "
+    },
+    {
+        "id": 4,
+        "title": "Spiderman 3",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTk3MDljOWQtNGI2My00OTEzLTlhYjQtOTQ4ODM2MzUwY2IwXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+        "director" : "Sam Raimi",
+        "year": "2007 ",
+        "description": " gftfydtrddry",
+        "genre": "Action",
+        "rating": " "
+    },
+    {
+        "id": 5,
+        "title": "Spiderman 3",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTk3MDljOWQtNGI2My00OTEzLTlhYjQtOTQ4ODM2MzUwY2IwXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+        "director" : "Sam Raimi",
+        "year": " ",
+        "description": " ",
+        "genre": " ",
+        "rating": " "
+    },
+    {
+        "id": 6,
+        "title": "Spiderman 3",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTk3MDljOWQtNGI2My00OTEzLTlhYjQtOTQ4ODM2MzUwY2IwXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+        "director" : "Sam Raimi",
+        "year": " ",
+        "description": " ",
+        "genre": " ",
+        "rating": " "
+    }
+]
