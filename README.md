@@ -1,5 +1,7 @@
 # Queen's Apple
-![logo](https://user-images.githubusercontent.com/59297307/125363562-d969d000-e33e-11eb-8bbd-73cc7007e22e.png)
+
+![Queen's Apple](https://user-images.githubusercontent.com/59297307/125382811-5f4c4200-e364-11eb-9c2e-64af0af67704.png)
+
 
 
 
@@ -55,10 +57,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 - [ ] Implement Redux
 
 
-## Author
+## Special Thanks
 
-[Franchell Polanco](https://www.linkedin.com/in/franchellpolanco/)
-
+* [Madhur Malhotra](https://www.linkedin.com/in/madhurxyz/) - For helping create this :fire: logo and powerpoint presentation. 
 
 
 
