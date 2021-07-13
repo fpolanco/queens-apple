@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+# Queen's Apple
+![logo](https://user-images.githubusercontent.com/59297307/125363562-d969d000-e33e-11eb-8bbd-73cc7007e22e.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+# Motivation
+Queen's Apple is a movie rating web platform. Inspired by Disney's Snow White and the poisened apple given to Snow White by the Evil Queen. Movies with a rating og 69 percent and below are poisened apples, stay away! Movies with a 70 percent or above rating are the Queen's apple cider, you'll be alright and you might just like it. 🍎
 
-### `yarn start`
+# Features
+- Search functionality that allows a user to enter a title and receive back movie information
+- Movie Details:
+    1.Title
+    2.Director
+    3.Release Year
+    4.Description 
+    5.Ability to thumbs up or thumbs down the movie 
+-
 
-Runs the app in the development mode.\
+# Technologies Used
+ - [ReactJS](https://reactjs.org/)
+ - HTML/CSS
+ - [Webpack](https://webpack.js.org/)
+ - [Babel](https://babeljs.io/)
+ 
+
+
+# Getting Started
+
+1. Install [Node.js](https://docs.npmjs.com/getting-started):
+    
+     `$ brew install node`
+
+2. Fork and clone this repo to your local machine. To clone, enter:
+
+     `git clone https://github.com/fpolanco/queens-apple.git`
+   
+   CD into directory for this project in a terminal or editor of your choice.
+
+3. Install all required dependencies:
+
+     `$ npm install`
+
+4. Start developmnet node:
+
+    `$ npm start`
+    
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Future Updates
 
-### `yarn build`
+- [ ] Magic Mirror feature showcasing the fairest of them all
+- [ ] Oauth
+- [ ] Implement Redux
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Author
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+[Franchell Polanco](https://www.linkedin.com/in/franchellpolanco/)
 
-### `yarn eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
