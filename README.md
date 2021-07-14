@@ -16,7 +16,6 @@ Queen's Apple is a movie rating web platform. Inspired by Disney's Snow White an
     3.Release Year
     4.Description 
     5.Ability to thumbs up or thumbs down the movie 
--
 
 # Technologies Used
  - [ReactJS](https://reactjs.org/)
