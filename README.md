@@ -42,7 +42,7 @@ Queen's Apple is a movie rating web platform. Inspired by Disney's Snow White an
 
      `$ npm install`
 
-4. Start developmnet node:
+4. Start development mode:
 
     `$ npm start`
     
