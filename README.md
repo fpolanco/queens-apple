@@ -6,7 +6,7 @@
 
 
 # Motivation
-Queen's Apple is a movie rating web platform. Inspired by Disney's Snow White and the poisened apple given to Snow White by the Evil Queen. Movies with a rating og 69 percent and below are poisened apples, stay away! Movies with a 70 percent or above rating are the Queen's apple cider, you'll be alright and you might just like it. 🍎
+Queen's Apple is a movie rating web platform. Inspired by Disney's Snow White and the poisened apple given to Snow White by the Evil Queen. Movies with a rating of 69 percent and below are poisened apples, stay away! Movies with a 70 percent or above rating are the Queen's apple cider, you'll be alright and you might just like it. 🍎
 
 # Features
 - Search functionality that allows a user to enter a title and receive back movie information
